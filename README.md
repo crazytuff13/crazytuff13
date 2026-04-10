@@ -19,6 +19,13 @@ A Python developer currently building my skills and portfolio.
 - #️⃣ [Hash Table](https://github.com/crazytuff13/python-hash-table) - Custom hash table implementation
 - 🗼 [Tower of Hanoi](https://github.com/crazytuff13/python-tower-of-hanoi) - Recursive puzzle solver
 
+🎮 [Pokemon Fan Game](https://github.com/crazytuff13/pokemon-game) 
+- Custom Pokemon RPG built with RPG Maker XP, Ruby and 
+Pokemon Essentials. Features custom battle system, custom 
+UI, custom badge system, original story and region, 
+custom Pokemon and more. Currently in development - 
+demo coming soon!
+
 ## 📈 Currently Learning
 - Relational Databases
 - SQL
